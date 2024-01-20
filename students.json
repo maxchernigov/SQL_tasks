@@ -1,0 +1,152 @@
+[
+    {
+        "student_id": 1,
+        "name": "Thomas Williams",
+        "age": 25
+    },
+    {
+        "student_id": 2,
+        "name": "Nicholas Reynolds",
+        "age": 23
+    },
+    {
+        "student_id": 3,
+        "name": "Wayne Daniel",
+        "age": 24
+    },
+    {
+        "student_id": 4,
+        "name": "Kristen Marshall",
+        "age": 19
+    },
+    {
+        "student_id": 5,
+        "name": "Matthew Edwards",
+        "age": 20
+    },
+    {
+        "student_id": 6,
+        "name": "Jeffrey Brown",
+        "age": 23
+    },
+    {
+        "student_id": 7,
+        "name": "Shannon Webb",
+        "age": 19
+    },
+    {
+        "student_id": 8,
+        "name": "Alicia Lopez",
+        "age": 20
+    },
+    {
+        "student_id": 9,
+        "name": "Christopher Davidson",
+        "age": 19
+    },
+    {
+        "student_id": 10,
+        "name": "Mark Ruiz",
+        "age": 21
+    },
+    {
+        "student_id": 11,
+        "name": "Wayne Hurley",
+        "age": 21
+    },
+    {
+        "student_id": 12,
+        "name": "Christopher Burns",
+        "age": 25
+    },
+    {
+        "student_id": 13,
+        "name": "Alyssa Estes",
+        "age": 22
+    },
+    {
+        "student_id": 14,
+        "name": "Lance Alexander",
+        "age": 23
+    },
+    {
+        "student_id": 15,
+        "name": "Katie Taylor",
+        "age": 19
+    },
+    {
+        "student_id": 16,
+        "name": "Donna Johnson",
+        "age": 19
+    },
+    {
+        "student_id": 17,
+        "name": "Jason Santiago",
+        "age": 23
+    },
+    {
+        "student_id": 18,
+        "name": "John Perry",
+        "age": 25
+    },
+    {
+        "student_id": 19,
+        "name": "Anthony Clark",
+        "age": 24
+    },
+    {
+        "student_id": 20,
+        "name": "Kevin Lawrence",
+        "age": 19
+    },
+    {
+        "student_id": 21,
+        "name": "Brenda Hatfield",
+        "age": 25
+    },
+    {
+        "student_id": 22,
+        "name": "Ronald Duke",
+        "age": 21
+    },
+    {
+        "student_id": 23,
+        "name": "Michele Kirby",
+        "age": 18
+    },
+    {
+        "student_id": 24,
+        "name": "Kimberly Ho",
+        "age": 24
+    },
+    {
+        "student_id": 25,
+        "name": "Andrew Long",
+        "age": 18
+    },
+    {
+        "student_id": 26,
+        "name": "Christian Mays",
+        "age": 18
+    },
+    {
+        "student_id": 27,
+        "name": "Tracy Johnson",
+        "age": 20
+    },
+    {
+        "student_id": 28,
+        "name": "Lori Dalton",
+        "age": 23
+    },
+    {
+        "student_id": 29,
+        "name": "Samuel Ortega",
+        "age": 24
+    },
+    {
+        "student_id": 30,
+        "name": "John Gibson",
+        "age": 22
+    }
+]
